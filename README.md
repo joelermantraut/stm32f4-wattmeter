@@ -5,10 +5,10 @@ This repository contains source code of a wattmeter made with STM32F407VG Discov
 ## Description
 
 Project uses two ADC channel of the board, to measure voltage and current. To voltage, and adapt stage
-was added to connect it to 220V. There an transformer and an operational amplifier circuit was used.
+was added to connect it to 220V. There is a transformer, and an operational amplifier circuit was used.
 For current, a Hall effect sensor was connected through the line of an outlet to connect any device.
-Obviouly, another adapt circuit was incorporated.
-An 20x4 LCD display shows power measurement. 220V input voltage is used to feed all circuit.
+Obviously, another adapt circuit was incorporated.
+A 20x4 LCD display shows power measurement. 220V input voltage is used to feed all circuit.
 
 ## About code
 
